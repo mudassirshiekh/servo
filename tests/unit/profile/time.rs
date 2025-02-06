@@ -9,7 +9,7 @@ use profile::time;
 use profile_traits::ipc as ProfiledIpc;
 use profile_traits::time::{ProfilerCategory, ProfilerData, ProfilerMsg};
 use servo_config::opts::OutputOptions;
-use time_03::Duration;
+use time::Duration;
 
 #[test]
 fn time_profiler_smoke_test() {
