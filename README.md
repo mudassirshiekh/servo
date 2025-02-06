@@ -16,7 +16,7 @@ For more detailed build instructions, see the Servo book under [Setting up your 
 [Building for OpenHarmony]: https://book.servo.org/hacking/building-for-openharmony.html
 
 ### macOS
-
+## By Mudassir Alam
 - Download and install [Xcode](https://developer.apple.com/xcode/) and [`brew`](https://brew.sh/).
 - Install `uv`: `curl -LsSf https://astral.sh/uv/install.sh | sh` 
 - Install `rustup`: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
